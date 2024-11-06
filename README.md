@@ -1,4 +1,5 @@
-![Estructura del proyecto](assets/estructura_del_proyecto)
+
+
 
 ## Proyecto Java - Biblioteca Digital
 
@@ -18,6 +19,7 @@ _Caracteristicas_
 
 ### Tecnologías:
 Lenguaje: Java 17
+
 API: Gutendex
 
 #### Librerías:
@@ -29,3 +31,9 @@ JACKSON para el procesamiento de respuestas JSON
 Maven para la gestión de dependencias
 
 Funciones Lambda y Streams de Java 8 para el manejo eficiente de colecciones de datos.
+
+Autor
+
+Jeheremi Ruiz - Desarrollador Java
+
+![estructura_ del_proyecto](https://github.com/user-attachments/assets/5821e7ee-e056-43b5-b58d-8f9544a8efe0)
